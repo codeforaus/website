@@ -1,0 +1,42 @@
+#about {
+	border-radius: 10px;
+	margin-top: 80px;
+	padding: 50px 0 50px 0;
+	background-color: white;
+}
+
+.quote {
+	width: 60%;
+	margin-left: 20%;
+}
+
+body {
+	background-color: #1ABC9C;
+}
+
+.app-logos {
+	padding: 20px;
+}
+
+.app-logos img {
+	max-width: 220px;
+}
+
+.register {
+	margin-top: 40px;
+}
+
+.contact, .about, .get-involved, .programs, .sponsors {
+	padding: 100px 0 100px 0;
+}
+
+.contact {
+	/*background-color: rgb(0, 229, 174);*/
+	min-height: 300px;
+	color: white;
+}
+
+.icon-social {
+	border-radius: 10px;
+	border: 20px solid rgb(101, 239, 206);
+}
